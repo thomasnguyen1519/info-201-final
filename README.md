@@ -14,6 +14,7 @@ Data used in this web application comes from the the US government's public, ope
 ## Special Instructions
 - Explanations about the app are located in the app itself or the presentation should be self-explanatory
 - Run 'test.R' before you render the app. You need to populate the R workspace environment with the necessary variables for the Shiny UI and server to be able to render them.
+- GitHub will not host more than 100MB of data for a project so you will need to download the dataset and extract MERGED2013_14_PP.csv into the CollegeScorecard_Raw_Data folder
 
 ## Sources of Data
 - Dataset: https://catalog.data.gov/dataset/college-scorecard/resource/2a7f670e-0799-436a-9394-df0a9b3ba7c5
